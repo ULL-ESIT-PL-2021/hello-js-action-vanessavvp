@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-vanessavvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-vanessavvp.git"
+  },
+  "keywords": [],
+  "author": "Vanessa Valentina Villalba Perez <alu0101265704@ull.edu.es> (https://github.com/vanessavvp)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-vanessavvp/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-vanessavvp#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
